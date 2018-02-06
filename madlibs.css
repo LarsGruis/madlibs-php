@@ -1,0 +1,121 @@
+body{
+	background-color: #404040;
+}
+
+nav{
+	background-color: #ad2406;
+	height: 40px;
+	width: 725px;
+	line-height: 40px;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+	margin-left: 20px;
+	font-family: arial;
+}
+
+nav li{
+	display: inline;
+}
+
+nav a:hover{
+	text-decoration: underline;
+}
+
+.form1{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.grijs{
+	background-color: white;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+header img{
+	height: 200px;
+	width: 600px;
+	padding-left: 335px;
+}
+
+h1{
+	font-weight: bold;
+	color: black;
+	margin-left: 10px;
+}
+
+.form1 input{
+	margin: 10px;
+}
+
+input{
+	display: inline-block;
+}
+
+p{
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+
+footer{
+	background-color: #808080;
+	height: 60px;
+	line-height: 60px;
+}
+
+footer p{
+	text-align: center;
+	color: white;
+}
+
+.flexbox{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	width: 200px;
+	height: 350px;
+	position: absolute;
+	top: 320px;
+	right: 500px;
+}
+
+.verstuur{
+	background-color: #ad2406;
+	color: white;
+	border-radius: 20px;
+	height: 30px;
+	width: 120px;
+	position: absolute;
+	bottom: 50px;
+	left: 400px;
+}
+
+.verstuur-onkunde{
+	background-color: #ad2406;
+	color: white;
+	border-radius: 20px;
+	height: 30px;
+	width: 120px;
+	position: absolute;
+	bottom: 90px;
+	left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
